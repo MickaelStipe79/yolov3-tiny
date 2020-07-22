@@ -1,1 +1,1 @@
-# yolov4-tiny
+# yolov3-tiny and yolov4-tiny
